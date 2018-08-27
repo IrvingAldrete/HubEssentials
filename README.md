@@ -1,0 +1,2 @@
+# HubEssentials
+Spigot hub plugin
